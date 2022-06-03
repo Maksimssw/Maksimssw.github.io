@@ -1,0 +1,2 @@
+(()=>{"use strict";window.addEventListener("DOMContentLoaded",(function(e){!function(){const e=document.querySelector(".menu__nav").cloneNode(1),t=document.querySelector(".subheader nav"),n=document.querySelector(".subheader"),c=document.querySelector(".hamburger");t.appendChild(e),c.addEventListener("click",(function(){c.classList.toggle("active"),n.classList.toggle("active")}))}()}))})();
+//# sourceMappingURL=bundle.js.map
